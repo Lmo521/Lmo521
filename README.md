@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lmo521
+- 👋 Hi, I’m pupupot
 - 👀 I’m interested in learning the basics of how to code in the most useful languages
 - 🌱 I’m currently learning Java
 
